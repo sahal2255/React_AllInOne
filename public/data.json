@@ -1,0 +1,139 @@
+[
+    {
+      "id": "1",
+      "Name": "Apple iPhone 14 Pro Max",
+      "image": "https://www.designinfo.in/wp-content/uploads/2023/02/610pghkO81L._SX679_-485x485-optimized.jpg",
+      "price": 1299,
+      "brand": "Apple",
+      "category": "Smartphone",
+      "rating": 4.8,
+      "reviews": 8500,
+      "description": "6.7-inch Super Retina XDR display, A16 Bionic chip, 48MP camera, 5G capable.",
+      "features": [
+        "A16 Bionic chip",
+        "6.7-inch Super Retina XDR display",
+        "Pro camera system with 48MP",
+        "5G capable"
+      ]
+    },
+    {
+      "id": "2",
+      "Name": "Samsung Galaxy S22 Ultra",
+      "image": "https://m.media-amazon.com/images/I/51hqXIAVXAL.jpg",
+      "price": 1199,
+      "brand": "Samsung",
+      "category": "Smartphone",
+      "rating": 4.7,
+      "reviews": 7400,
+      "description": "6.8-inch Dynamic AMOLED display, Snapdragon 8 Gen 1, 108MP camera, S Pen support.",
+      "features": [
+        "Snapdragon 8 Gen 1",
+        "6.8-inch Dynamic AMOLED display",
+        "108MP Quad Camera",
+        "S Pen included"
+      ]
+    },
+    {
+      "id": "3",
+      "Name": "Sony WH-1000XM5 Headphones",
+      "image": "https://www.sony.co.in/image/6145c1d32e6ac8e63a46c912dc33c5bb?fmt=pjpeg&wid=220&bgcolor=FFFFFF&bgc=FFFFFF",
+      "price": 399,
+      "brand": "Sony",
+      "category": "Headphones",
+      "rating": 4.6,
+      "reviews": 5300,
+      "description": "Industry-leading noise cancellation, 30 hours battery life, Hi-Res Audio support.",
+      "features": [
+        "Industry-leading noise cancellation",
+        "30 hours battery life",
+        "Hi-Res Audio support",
+        "Touch controls"
+      ]
+    },
+    {
+      "id": "4",
+      "Name": "Dell XPS 13",
+      "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/13-9340/media-gallery/silver/touch-oled/notebook-xps-13-9340-t-oled-sl-gallery-3.psd?fmt=pjpg&pscan=auto&scl=1&wid=3509&hei=2082&qlt=100,1&resMode=sharp2&size=3509,2082&chrss=full&imwidth=5000",
+      "price": 999,
+      "brand": "Dell",
+      "category": "Laptop",
+      "rating": 4.5,
+      "reviews": 3200,
+      "description": "13.4-inch FHD+ display, 11th Gen Intel Core i7, 16GB RAM, 512GB SSD.",
+      "features": [
+        "11th Gen Intel Core i7",
+        "13.4-inch FHD+ InfinityEdge display",
+        "16GB RAM",
+        "512GB SSD"
+      ]
+    },
+    {
+      "id": "5",
+      "Name": "Apple MacBook Pro 16-inch",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLozLyLjRKTZ9zKqAERNTH_T1X_GGnmFz6pg&s",
+      "price": 2499,
+      "brand": "Apple",
+      "category": "Laptop",
+      "rating": 4.9,
+      "reviews": 2900,
+      "description": "16-inch Liquid Retina XDR display, M1 Pro chip, 16GB RAM, 1TB SSD.",
+      "features": [
+        "M1 Pro chip",
+        "16-inch Liquid Retina XDR display",
+        "16GB RAM",
+        "1TB SSD"
+      ]
+    },
+    {
+      "id": "6",
+      "Name": "Samsung QLED 65-inch TV",
+      "image": "https://www.reliancedigital.in/medias/Samsung-65QN90A-QLEDTelevisions-492166322-i-2-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxMTQzNzZ8aW1hZ2UvanBlZ3xpbWFnZXMvaGRkL2hlNi85NTQwMTAxNzY3MTk4LmpwZ3w2MzE4OWViNDZjMDhkMzkxNzUyMzEzMGYzNDNkN2QzOTRlOGViZTUzNzZmNTRmY2M2YmM1YTE4ZDMxNjNmOGU2",
+      "price": 1499,
+      "brand": "Samsung",
+      "category": "Television",
+      "rating": 4.7,
+      "reviews": 2100,
+      "description": "65-inch 4K UHD QLED display, Quantum Processor 4K, 120Hz refresh rate, Dolby Atmos.",
+      "features": [
+        "65-inch 4K UHD QLED display",
+        "Quantum Processor 4K",
+        "120Hz refresh rate",
+        "Dolby Atmos support"
+      ]
+    },
+    {
+      "id": "7",
+      "Name": "Bose SoundLink Revolve+ II",
+      "image": "https://assets.bose.com/content/dam/Bose_DAM/Web/consumer_electronics/global/products/speakers/soundlink_revolve_plus_ii/product_silo_images/SoundLink_Revolve_Plus_II_Black_Ecom_1.png/_jcr_content/renditions/cq5dam.web.320.320.png",
+      "price": 299,
+      "brand": "Bose",
+      "category": "Speaker",
+      "rating": 4.8,
+      "reviews": 1500,
+      "description": "360-degree sound, 17 hours battery life, water-resistant, Bluetooth connectivity.",
+      "features": [
+        "360-degree sound",
+        "17 hours battery life",
+        "Water-resistant",
+        "Bluetooth connectivity"
+      ]
+    },
+    {
+      "id": "8",
+      "Name": "Fitbit Charge 5",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgchEXyRJU_K5Ic2Rq8fddx-hTqCKGtSSBGg&s",
+      "price": 179,
+      "brand": "Fitbit",
+      "category": "Wearable",
+      "rating": 4.4,
+      "reviews": 4200,
+      "description": "Built-in GPS, stress management tools, 7-day battery life, swim-proof.",
+      "features": [
+        "Built-in GPS",
+        "Stress management tools",
+        "7-day battery life",
+        "Swim-proof"
+      ]
+    }
+  ]
+  
